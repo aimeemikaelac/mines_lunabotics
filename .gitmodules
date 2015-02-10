@@ -1,0 +1,15 @@
+[submodule "lunabotics_control_room_gui"]
+	path = lunabotics_control_room_gui
+	url = git@github.com:mcoughli/lunabotics_control_room_gui.git
+[submodule "lunabotics_networking_c"]
+	path = lunabotics_networking_c
+	url = git@github.com:mcoughli/lunabotics_networking_c.git
+[submodule "lunabotics_serial_port_java"]
+	path = lunabotics_serial_port_java
+	url = git@github.com:mcoughli/lunabotics_serial_port_java.git
+[submodule "lunabotics_rovercontrol"]
+	path = lunabotics_rovercontrol
+	url = git@github.com:mcoughli/lunabotics_rovercontrol.git
+[submodule "lunabotics_xbox_controller"]
+	path = lunabotics_xbox_controller
+	url = git@github.com:mcoughli/lunabotics_xbox_controller.git
